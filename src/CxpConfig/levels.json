@@ -1,0 +1,252 @@
+[
+  {
+    "level": 1,
+    "xp_required": 0,
+    "name": "Peasant"
+  },
+  {
+    "level": 2,
+    "xp_required": 100,
+    "name": "Peasant"
+  },
+  {
+    "level": 3,
+    "xp_required": 200,
+    "name": "Peasant"
+  },
+  {
+    "level": 4,
+    "xp_required": 300,
+    "name": "Peasant"
+  },
+  {
+    "level": 5,
+    "xp_required": 400,
+    "name": "Squire"
+  },
+  {
+    "level": 6,
+    "xp_required": 500,
+    "name": "Squire"
+  },
+  {
+    "level": 7,
+    "xp_required": 600,
+    "name": "Squire"
+  },
+  {
+    "level": 8,
+    "xp_required": 700,
+    "name": "Squire"
+  },
+  {
+    "level": 9,
+    "xp_required": 800,
+    "name": "Squire"
+  },
+  {
+    "level": 10,
+    "xp_required": 900,
+    "name": "Squire"
+  },
+  {
+    "level": 11,
+    "xp_required": 1000,
+    "name": "Knight"
+  },
+  {
+    "level": 12,
+    "xp_required": 1250,
+    "name": "Knight"
+  },
+  {
+    "level": 13,
+    "xp_required": 1500,
+    "name": "Knight"
+  },
+  {
+    "level": 14,
+    "xp_required": 1750,
+    "name": "Knight"
+  },
+  {
+    "level": 15,
+    "xp_required": 2000,
+    "name": "Knight"
+  },
+  {
+    "level": 16,
+    "xp_required": 2250,
+    "name": "Knight"
+  },
+  {
+    "level": 17,
+    "xp_required": 2500,
+    "name": "Knight"
+  },
+  {
+    "level": 18,
+    "xp_required": 2750,
+    "name": "Knight"
+  },
+  {
+    "level": 19,
+    "xp_required": 3000,
+    "name": "Knight"
+  },
+  {
+    "level": 20,
+    "xp_required": 3250,
+    "name": "Knight"
+  },
+  {
+    "level": 21,
+    "xp_required": 3500,
+    "name": "Paladin"
+  },
+  {
+    "level": 22,
+    "xp_required": 4000,
+    "name": "Paladin"
+  },
+  {
+    "level": 23,
+    "xp_required": 4500,
+    "name": "Paladin"
+  },
+  {
+    "level": 24,
+    "xp_required": 5000,
+    "name": "Paladin"
+  },
+  {
+    "level": 25,
+    "xp_required": 5500,
+    "name": "Paladin"
+  },
+  {
+    "level": 26,
+    "xp_required": 6000,
+    "name": "Paladin"
+  },
+  {
+    "level": 27,
+    "xp_required": 6500,
+    "name": "Paladin"
+  },
+  {
+    "level": 28,
+    "xp_required": 7000,
+    "name": "Paladin"
+  },
+  {
+    "level": 29,
+    "xp_required": 7500,
+    "name": "Paladin"
+  },
+  {
+    "level": 30,
+    "xp_required": 8000,
+    "name": "Paladin"
+  },
+  {
+    "level": 31,
+    "xp_required": 8500,
+    "name": "Champion"
+  },
+  {
+    "level": 32,
+    "xp_required": 9500,
+    "name": "Champion"
+  },
+  {
+    "level": 33,
+    "xp_required": 10500,
+    "name": "Champion"
+  },
+  {
+    "level": 34,
+    "xp_required": 11500,
+    "name": "Champion"
+  },
+  {
+    "level": 35,
+    "xp_required": 12500,
+    "name": "Champion"
+  },
+  {
+    "level": 36,
+    "xp_required": 13500,
+    "name": "Champion"
+  },
+  {
+    "level": 37,
+    "xp_required": 14500,
+    "name": "Champion"
+  },
+  {
+    "level": 38,
+    "xp_required": 15500,
+    "name": "Champion"
+  },
+  {
+    "level": 39,
+    "xp_required": 16500,
+    "name": "Champion"
+  },
+  {
+    "level": 40,
+    "xp_required": 17500,
+    "name": "Champion"
+  },
+  {
+    "level": 41,
+    "xp_required": 18500,
+    "name": "Archlord"
+  },
+  {
+    "level": 42,
+    "xp_required": 21000,
+    "name": "Archlord"
+  },
+  {
+    "level": 43,
+    "xp_required": 23500,
+    "name": "Archlord"
+  },
+  {
+    "level": 44,
+    "xp_required": 26000,
+    "name": "Archlord"
+  },
+  {
+    "level": 45,
+    "xp_required": 28500,
+    "name": "Archlord"
+  },
+  {
+    "level": 46,
+    "xp_required": 31000,
+    "name": "Archlord"
+  },
+  {
+    "level": 47,
+    "xp_required": 33500,
+    "name": "Archlord"
+  },
+  {
+    "level": 48,
+    "xp_required": 36000,
+    "name": "Archlord"
+  },
+  {
+    "level": 49,
+    "xp_required": 38500,
+    "name": "Archlord"
+  },
+  {
+    "level": 50,
+    "xp_required": 41000,
+    "name": "Archlord"
+  }
+]

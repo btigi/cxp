@@ -1,0 +1,197 @@
+{
+  "milestone": {
+    "commit_1": {
+      "name": "Novice Adventurer",
+      "description": "Complete 1 commit.",
+      "xp_reward": 50
+    },
+    "commit_2": {
+      "name": "Apprentice",
+      "description": "Complete 2 commits.",
+      "xp_reward": 50
+    },
+    "commit_10": {
+      "name": "Journeyman",
+      "description": "Complete 10 commits.",
+      "xp_reward": 100
+    },
+    "commit_100": {
+      "name": "Veteran Warrior",
+      "description": "Complete 100 commits.",
+      "xp_reward": 300
+    },
+    "commit_1000": {
+      "name": "Legendary Hero",
+      "description": "Complete 1000 commits.",
+      "xp_reward": 1000
+    },
+    "push_1": {
+      "name": "Guild Member",
+      "description": "Complete 1 push.",
+      "xp_reward": 75
+    },
+    "push_3": {
+      "name": "Skilled Trader",
+      "description": "Complete 3 pushes.",
+      "xp_reward": 90
+    },
+    "push_10": {
+      "name": "Merchant",
+      "description": "Complete 10 pushes.",
+      "xp_reward": 125
+    },
+    "push_50": {
+      "name": "Trusted Ally",
+      "description": "Complete 50 pushes.",
+      "xp_reward": 350
+    },
+    "push_100": {
+      "name": "Master Diplomat",
+      "description": "Complete 100 pushes.",
+      "xp_reward": 400
+    },
+    "push_1000": {
+      "name": "Legendary Ambassador",
+      "description": "Complete 1000 pushes.",
+      "xp_reward": 1200
+    },
+    "merge_1": {
+      "name": "Peacemaker",
+      "description": "Complete 1 merge.",
+      "xp_reward": 100
+    },
+    "merge_5": {
+      "name": "Archdiplomаt",
+      "description": "Complete 5 merges.",
+      "xp_reward": 200
+    },
+    "branch_1": {
+      "name": "Pathfinder",
+      "description": "Create 1 branch.",
+      "xp_reward": 75
+    },
+    "log_1": {
+      "name": "Lorekeeper",
+      "description": "View the commit log for the first time.",
+      "xp_reward": 50
+    },
+    "stash_1": {
+      "name": "Hoarder",
+      "description": "Use git stash for the first time.",
+      "xp_reward": 80
+    },
+    "tag_1": {
+      "name": "Herald",
+      "description": "Create your first git tag.",
+      "xp_reward": 90
+    },
+    "revert_1": {
+      "name": "Chronomancer",
+      "description": "Use git revert for the first time.",
+      "xp_reward": 120
+    }
+  },
+  "combo": {
+    "combo_3": {
+      "name": "Dedicated Pupil",
+      "description": "Commit on 3 consecutive days.",
+      "xp_reward": 120
+    },
+    "combo_7": {
+      "name": "Disciplined Monk",
+      "description": "Commit on 7 consecutive days.",
+      "xp_reward": 300
+    },
+    "combo_30": {
+      "name": "Immortal Sage",
+      "description": "Commit on 30 consecutive days.",
+      "xp_reward": 1200
+    }
+  },
+  "hourly": {
+    "hour_0": {
+      "name": "Night Watch",
+      "description": "Commit code between midnight and 1 AM.",
+      "xp_reward": 150
+    },
+    "hour_1": {
+      "name": "Shadow Walker",
+      "description": "Commit code between 1 AM and 2 AM.",
+      "xp_reward": 140
+    },
+    "hour_2": {
+      "name": "Sleepless Guardian",
+      "description": "Commit code between 2 AM and 3 AM.",
+      "xp_reward": 160
+    },
+    "hour_3": {
+      "name": "Midnight Sentinel",
+      "description": "Commit code between 3 AM and 4 AM.",
+      "xp_reward": 170
+    },
+    "hour_9": {
+      "name": "Dawn Ranger",
+      "description": "Commit code between 9 AM and 10 AM.",
+      "xp_reward": 80
+    },
+    "hour_12": {
+      "name": "Midday Scholar",
+      "description": "Commit code between noon and 1 PM.",
+      "xp_reward": 90
+    },
+    "hour_18": {
+      "name": "Evening Warrior",
+      "description": "Commit code between 6 PM and 7 PM.",
+      "xp_reward": 100
+    },
+    "hour_23": {
+      "name": "Twilight Mage",
+      "description": "Commit code between 11 PM and midnight.",
+      "xp_reward": 120
+    }
+  },
+  "builder": {
+    "builder_1": {
+      "name": "Novice Crafter", 
+      "description": "Add your first file to the repository.",
+      "xp_reward": 50
+    },
+    "builder_10": {
+      "name": "Skilled Artisan",
+      "description": "Add 10 files to the repository.",
+      "xp_reward": 150
+    },
+    "builder_50": {
+      "name": "Master Builder",
+      "description": "Add 50 files to the repository.",
+      "xp_reward": 300
+    },
+    "builder_250": {
+      "name": "Legendary Architect",
+      "description": "Add 250 files to the repository.",
+      "xp_reward": 500
+    }
+  },
+  "destroyer": {
+    "destroyer_1": {
+      "name": "Novice Destroyer",
+      "description": "Delete your first file from the repository.",
+      "xp_reward": 50
+    },
+    "destroyer_10": {
+      "name": "Cleanup Crew",
+      "description": "Delete 10 files from the repository.",
+      "xp_reward": 150
+    },
+    "destroyer_50": {
+      "name": "Siege Engineer",
+      "description": "Delete 50 files from the repository.",
+      "xp_reward": 300
+    },
+    "destroyer_250": {
+      "name": "Legendary Devastator",
+      "description": "Delete 250 files from the repository.",
+      "xp_reward": 500
+    }
+  }
+}
