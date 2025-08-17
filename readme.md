@@ -1,6 +1,6 @@
 # Introduction
 
-cxp is a wrapped around git that tracks command usage and awards XP and achivements.
+cxp is a wrapper around git that tracks command usage and awards XP and achievements.
 
 # Download
 
@@ -27,23 +27,23 @@ cxp has two modes of working;
 a) You can call cxp.exe directly
 b) You can rename cxp to git and use the appsettings.json file to configure the path to the real git executable
 
-In either case cxp is used by passing git commands e.g. `cxp add myfile.txt`. cxp tracks commands used and awards xp. An achivement dialog is displayed in the console when an achievement is unlocked.
+In either case, cxp is used by passing git commands, e.g., `cxp add myfile.txt`. cxp tracks commands used and awards XP. An achievement dialog is displayed in the console when an achievement is unlocked.
 
 There are a few commands that are not passed through to git:
 
-`cxp profile` - displays your current xp, level and achievements
-`cxp profile --stats` - displays your current xp, level and achievements and additional stats on command usage
+`cxp profile` - displays your current XP, level, and achievements
+`cxp profile --stats` - displays your current XP, level, and achievements, and additional stats on command usage
 `cxp profile --clear` - clears all tracking
 
 # Customisation
 
-Various settings related to achievements and xp awards can be customised in the files below, stored in the `cxpconfig` directory.
+Various settings related to achievements and XP awards can be customised in the files below, stored in the `cxpconfig` directory.
 
 - achievements.json
 
-Contains the name of achievements and the xp award.
+Contains the names of achievements and the XP award.
 
-The milestones section track total command usage and additional milestones can be added, e.g. a new commit milestone for 3 commits can be added:
+The milestones section tracks total command usage, and additional milestones can be added, e.g., a new commit milestone for 3 commits can be added:
 ```json
 "commit_3": {
       "name": "Apprentice",
@@ -52,7 +52,7 @@ The milestones section track total command usage and additional milestones can b
 }
 ```
 
-The combos section track commits on consecutive days and additional combos can be added e.g. a new milestone for commits on consecutive days can be added:
+The combos section track commits on consecutive days, and additional combos can be added, e.g, a new milestone for commits on consecutive days can be added:
 ```json
 "combo_10": {
       "name": "Disciplined Monk",
@@ -61,7 +61,7 @@ The combos section track commits on consecutive days and additional combos can b
 }
 ```
 
-The hourly section tracks commits over the course of the day and a additional hourly achievement can be added e.g.
+The hourly section tracks commits over the course of the day, and an additional hourly achievement can be added, e.g.
 ```json
 "hour_13": {
       "name": "Lunchday Friar",
@@ -70,7 +70,7 @@ The hourly section tracks commits over the course of the day and a additional ho
 }
 ```
 
-The builder section tracks the number of files added in an individual commit and a new builder achievement can be added e.g.
+The builder section tracks the number of files added in an individual commit, and a new builder achievement can be added, e.g.
 ```json
 "builder_5": {
       "name": "Novice Crafter", 
@@ -79,7 +79,7 @@ The builder section tracks the number of files added in an individual commit and
 }
 ```
 
-The detstroyer section tracks the number of files deleted in an individual commit and a new destroyer achivement can be added e.g.
+The destroyer section tracks the number of files deleted in an individual commit, and a new destroyer achievement can be added, e.g.
 ```json
 "destroyer_5": {
       "name": "Novice Destroyer",
@@ -91,16 +91,16 @@ The detstroyer section tracks the number of files deleted in an individual commi
 
 - levels.json
 
-Contains the level name and the total xp required to reach that level.
+Contains the level name and the total XP required to reach that level.
 
 
 - xp.json
 
-Contains the xp award for each operation, per level.
+Contains the XP award for each operation, per level.
 
 # Licencing
 
-cxp is licenced under the MIT license. Full licence details are available in license.md
+cxp is licensed under the MIT license. Full license details are available in the license.md
 
 # Thanks
 
